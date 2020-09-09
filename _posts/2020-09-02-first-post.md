@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "라오스, 중국 화웨이 기술을 도입한 5G 네트워크 상용화"
 date: 2020-09-02 08:26:28 +0900
 categories: asia 5G
