@@ -20,7 +20,7 @@ title                    : "himchanjung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Won-Gi Jung"
-description              : "Keep writing, keep learning."
+description              : "Read and write in KOR/ENG. Sometimes code."
 url                      : "https://himchanjung.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Won-Gi Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Read and write in KOR/ENG. Sometimes code."
   location         : "Somewhere"
   email            :
   links:
