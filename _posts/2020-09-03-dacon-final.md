@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "COVID19 발발 이후 수도권 지하철 빅데이터 분석을 통한 이용자 유형별 이동 패턴 분석 "
 date: 2020-09-03 08:26:28 +0900
 categories: dataviz
