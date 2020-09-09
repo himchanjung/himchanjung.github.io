@@ -24,8 +24,6 @@ categories: asia 5G
 
 5G 네트워크 경쟁은 기술 경쟁을 넘어 외교, 정치, 문화를 망라하는 종합적 지정학적 경쟁이다. 코로나 판데믹으로 인해 통신기술의 중요성이 각광받는 지금, 한국이 조금이라도 이득을 챙기기 위해선 대기업의 범위를 넘어서서 정부의 적극적 개입이 갖춰진 전략이 필요하다.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [lao-telecom]: https://halberdbastion.com/intelligence/mobile-networks/lao-telecom#:~:text=Lao%20Telecom%20is%20the%20second,(holding%2049%25%20ownership).
 [thailand]:   https://asia.nikkei.com/Spotlight/5G-networks/Huawei-sweetens-5G-offer-in-Thailand-with-tech-training-center
 [philippines]: https://asia.nikkei.com/Business/Telecommunication/Top-Philippine-telco-to-launch-5G-service-with-Huawei-and-Ericsson
