@@ -6,7 +6,7 @@ categories: asia 5G
 
 9월 1일 일본 니케이 신문에 따르면, 라오스가 중국의 테크 기업 화웨이의 기술을 도입한 5G 네트워크 서비스를 게시하겠다고 발표했다. UN이 지정한 "후발발전도상국" 중에서 5G를 도입한 나라는 라오스가 처음이라고 한다.
 
-![Image of Lao Telecom Celebrating 5G Network](../assets/images/20200901_laos1.jpg)
+![Image of Lao Telecom Celebrating 5G Network](/assets/images/20200901_laos1.jpg)
 
 라오스에서 5G 기술을 도입하고 있는 라오텔레콤 (Lao Telecom)은 라오스에선 [두번째로 큰][lao-telecom] 통신기술회사다. 지난 10월 부터 중국의 화웨이에서 제공 받은 통신기술 및 인프라로 5G 기술 도입을 선도하고 있다고 한다.
 
