@@ -2,8 +2,8 @@
 main:
   - title: "data viz"
     url: /data-viz/
-  - title: "blog"
-    url: /blog/
+  - title: "categories"
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
