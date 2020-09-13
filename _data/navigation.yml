@@ -2,9 +2,9 @@
 main:
   - title: "data viz"
     url: /data-viz/
-  - title: "categories"
+  - title: "Categories"
     url: /categories/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
