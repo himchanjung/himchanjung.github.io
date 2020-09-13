@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "data viz"
-    url: 
+    url: /data-viz/
   - title: "blog"
-    url:
+    url: /blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

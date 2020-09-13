@@ -1,7 +1,7 @@
 ---
 title: "필리핀 최대 미디어 회사 ABS-CBN, 두테르테의 입김 앞에 풍전등화"
 date: 2020-09-03 09:26:28 +0900
-categories: asia philippines
+categories: blog asia philippines
 ---
 
 ABS-CBN은 필리핀 미디어 시장의 한 축을 담당해왔다. 뉴스, 엔터테인먼트 등을 총망라하는 방송국으로, 우리나라에서는 사기업이 소유하는 JTBC나 채널 A같은 종편 채널이라 보면 된다.
